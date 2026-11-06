@@ -1,5 +1,11 @@
 # E-Commerce Sales & Customer Analytics
 
+
+The interactive Power BI dashboard provides insights into
+e-commerce sales performance, revenue trends, and customer behavior.
+
+E-Commerce_Sales_Customer_Analytics/Ecommerce-dashboard.png.pbix
+
 ## Project Overview
 
 This project focuses on analyzing e-commerce sales performance and customer purchasing behavior using SQL, Python, Excel, and Power BI. The goal is to transform raw transactional data into meaningful business insights that support data-driven decision-making.
