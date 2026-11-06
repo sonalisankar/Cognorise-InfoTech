@@ -1,79 +1,72 @@
-Retail Sales Analysis Dashboard | Power BI
+# Retail Sales Analysis Dashboard – Power BI
 
- Project Overview
+## Project Overview
 
-This project analyzes retail transaction data to evaluate sales performance, identify category-level trends, and communicate business insights through an interactive Power BI dashboard.
+This project analyzes retail sales data using Power BI to evaluate business performance, identify sales trends, and generate actionable insights. An interactive dashboard was developed to transform raw retail data into meaningful visualizations that support data-driven business decisions.
 
-The project demonstrates data validation, DAX measure development, KPI tracking, data visualization, and business-focused analysis.
+## Business Objectives
 
- Objectives
+- Evaluate overall retail sales performance.
+- Identify top-performing products and categories.
+- Analyze sales trends across time periods.
+- Examine customer purchasing patterns.
+- Identify opportunities to improve revenue and business performance.
 
-- Clean and validate retail transaction data.
-- Calculate key performance indicators (KPIs).
-- Analyze revenue by product category and gender.
-- Examine monthly sales trends and changes over time.
-- Build an interactive Power BI dashboard with slicers.
-- Develop actionable recommendations based on the findings.
+## Tools & Technologies
 
-Tools & Technologies
+| Tool | Application |
+|---|---|
+| Power BI | Dashboard development and visualization |
+| DAX | Measures, calculations, and KPI analysis |
+| Power Query | Data cleaning and transformation |
+| Excel / CSV | Dataset inspection and preparation |
 
-- **Power BI Desktop:** Dashboard development and data visualization
-- **DAX:** KPI calculations and time-based analysis
-- **Power Query:** Data inspection and transformation
-- **Microsoft Excel:** Data validation and preliminary analysis
+## Project Workflow
 
-Key Performance Indicators
+### 1. Data Preparation
+- Imported the retail sales dataset into Power BI.
+- Reviewed and prepared data for analysis.
+- Checked data consistency and formatting.
+- Organized data for dashboard development.
 
-- Total Revenue
-- Total Transactions
-- Total Quantity Sold
-- Average Transaction Value
-- Month-over-Month Revenue Growth
-- Revenue Share by Product Category
-- Average Selling Price
+### 2. Data Analysis
+- Developed DAX measures to evaluate key performance indicators.
+- Analyzed sales performance and product trends.
+- Examined patterns across relevant business dimensions.
 
- Dashboard Features
+### 3. Dashboard Development
+Created an interactive Power BI dashboard featuring visualizations and key performance indicators to communicate retail sales performance.
 
-- KPI cards summarizing sales performance
-- Monthly revenue trend analysis
-- Revenue comparisons across product categories
-- Revenue analysis by gender
-- Interactive slicers for year, category, and gender
+## Key Business Questions
 
- Dataset
+1. What are the overall retail sales trends?
+2. Which products contribute most to sales?
+3. How does sales performance change over time?
+4. What patterns can help inform business decisions?
 
-The dataset contains retail transaction information, including transaction dates, customer demographics, product categories, quantities, unit prices, and total transaction amounts.
+## Repository Structure
 
- Preliminary Findings
+```text
+Retail-Sales-Analysis-Dashboard-Power-BI/
+│
+├── Sales Overview.pbix
+├── retail_sales_dataset.csv
+└── README.md
+```
 
-- Total recorded revenue: $456,000
-- Total transactions: 1,000
-- Total quantity sold: 2,514
-- Average transaction value: $456
+## Project Outcomes
 
-Electronics generated the highest revenue among the three product categories, followed closely by Clothing.
+This project demonstrates the use of Power BI, DAX, and data preparation techniques to develop an interactive business intelligence dashboard. It highlights the ability to transform retail data into meaningful visual insights that support business performance evaluation and decision-making.
 
-January 2024 contains only a partial reporting period and should be interpreted accordingly.
+## Skills Demonstrated
 
- Limitations
+- Power BI dashboard development
+- DAX measures and calculations
+- Data cleaning and transformation
+- KPI development
+- Data visualization
+- Business intelligence and analytics
 
-The dataset does not include product-level identifiers, geographic regions, or cost information. Therefore, the analysis does not establish individual product performance, regional performance, or actual profitability.
+---
 
- Business Recommendations
-
-1. Investigate monthly revenue fluctuations to identify potential demand patterns.
-2. Evaluate category-level performance when planning promotional campaigns.
-3. Monitor transaction value and quantity sold alongside revenue.
-4. Compare performance across customer segments to identify potential opportunities.
-5. Collect product cost and regional sales data to support more comprehensive profitability and geographic analysis.
-
- Project Deliverables
-
-- Power BI dashboard (`.pbix`)
-- Dataset, where redistribution is permitted
-- Dashboard screenshots
-
- Author
-
-Created as part of a data analytics portfolio project.
-
+**Project Category:** Retail Analytics | Business Intelligence | Power BI
