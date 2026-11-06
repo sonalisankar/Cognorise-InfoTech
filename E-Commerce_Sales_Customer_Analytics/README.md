@@ -4,7 +4,6 @@
 The interactive Power BI dashboard provides insights into
 e-commerce sales performance, revenue trends, and customer behavior.
 
-E-Commerce_Sales_Customer_Analytics/Ecommerce-dashboard.png.pbix
 
 ## Project Overview
 
