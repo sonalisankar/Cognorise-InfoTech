@@ -1,4 +1,4 @@
-# Data Analytics Portfolio | Cognorise InfoTech
+# Data Analytics Portfolio | Conorise InfoTech
 
 Welcome to my data analytics portfolio! This repository showcases projects focused on transforming raw data into meaningful business insights through data analysis, SQL, Python, and Power BI.
 
